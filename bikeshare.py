@@ -6,6 +6,7 @@ CITY_DATA = { 'chicago': 'chicago.csv',
               'new york': 'new_york_city.csv',
               'washington': 'washington.csv' }
 
+# test comment change
 def get_filters():
     """
     Asks user to specify a city, month, and day to analyze.
@@ -85,8 +86,8 @@ def time_stats(df):
     print('The most common month is: ', mode_mth)
 
     # TO DO: display the most common day of week
-    mode_dow = df['day_of_week'].mode()[0]
-    print('The most common day of the week is: ',mode_dow)
+    mode_d = df['day_of_week'].mode()[0]
+    print('The most common day of the week is: ',mode_d)
 
     # TO DO: display the most common start hour
     mode_h = df['Start Time'].dt.hour.mode()[0]
@@ -223,8 +224,8 @@ def main():
 
         restart = input('\nWould you like to restart? Enter yes or no.\n')
         if restart.lower() != 'yes':
+            print('Goodbye!')
             break
-
 
 if __name__ == "__main__":
 	main()

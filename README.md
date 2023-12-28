@@ -33,6 +33,8 @@ City raw dataset files (excluded with .gitignore as files are too big)
 * chicago.csv
 * new_york_city.csv
 * washington.csv
+Code in Python for bike share usage patterns
+* bikeshare.py
 
 ## Credits
 * [NumPy documentation] (https://numpy.org/doc/stable/index.html)

@@ -1,6 +1,8 @@
 ## Date created
 29 Dec 2023
+
 Based on Project 2 of _Programming for Data Science with Python_
+
 
 # Explore US Bikeshare Data
 
@@ -33,6 +35,7 @@ City raw dataset files (excluded with .gitignore as files are too big)
 * chicago.csv
 * new_york_city.csv
 * washington.csv
+
 Code in Python for bike share usage patterns
 * bikeshare.py
 

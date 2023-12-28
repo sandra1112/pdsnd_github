@@ -37,6 +37,6 @@ Code in Python for bike share usage patterns
 * bikeshare.py
 
 ## Credits
-* [NumPy documentation] (https://numpy.org/doc/stable/index.html)
-* [Pandas documentation] (https://pandas.pydata.org/pandas-docs/stable/index.html)
-* [PEP 257 – Docstring Conventions] (https://peps.python.org/pep-0257/)
+* [NumPy documentation](https://numpy.org/doc/stable/index.html)
+* [Pandas documentation](https://pandas.pydata.org/pandas-docs/stable/index.html)
+* [PEP 257 – Docstring Conventions](https://peps.python.org/pep-0257/)

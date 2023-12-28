@@ -1,1 +1,5 @@
+# ignore all csv files
+*.csv
+
+# this was included when making a copy
 .github/**
